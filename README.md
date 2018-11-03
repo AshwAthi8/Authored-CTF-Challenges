@@ -1,4 +1,3 @@
-# Odd_Even
 
 ### Description
 Its a windows executable.  
