@@ -1,8 +1,0 @@
-#if each numbers is in each line 
-
-s=open("file name","r")
-sum=0
-for i in s:
-  sum=sum+int(i.strip())
-print(sum)  
-
